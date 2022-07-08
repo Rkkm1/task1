@@ -1,17 +1,12 @@
-import Comments from './pages/Comments';
 
-
-import './App.css';
-
+import Try_this from "./components/Task1";
 function App() {
+
   return (
-    <div className="App">
-
-      <Comments/>
-
-
-    </div>
+    
+    <Try_this/>
   );
+  
 }
-
 export default App;
+
